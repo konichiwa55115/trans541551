@@ -4,7 +4,6 @@ import resources as R
 import metaclass
 import functional 
 import audiotools
-import phototools
 import pprint
 import logging
 import os
