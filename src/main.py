@@ -16,7 +16,7 @@ coloredlogs.install(
 logger = logging.getLogger(__name__)
 
 if __name__ == '__main__':
-  config.init('../config')
+  config.init("../config")
   resources.init("../values")
   antiflood.init()
   transcriberbot.init()
